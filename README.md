@@ -1,5 +1,5 @@
 # Project: Image Processing Package
-## author: [Karina Kato](https://www.linkedin.com/in/karina-kato-4b2a56182/)
+## Course by: [Karina Kato](https://www.linkedin.com/in/karina-kato-4b2a56182/)
 ### Course: Create a Image Processing package in Python - by Digital Innovation One
 
 ### Description:
