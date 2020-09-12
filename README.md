@@ -1,5 +1,5 @@
 # Project: Image Processing Package
-## author: Karina Kato (https://www.linkedin.com/in/karina-kato-4b2a56182/)
+## author: [Karina Kato](https://www.linkedin.com/in/karina-kato-4b2a56182/)
 ### Course: Create a Image Processing package in Python - by Digital Innovation One
 
 ### Description:
@@ -61,8 +61,6 @@ pip install image-processing-test
 from image-processing.processing import combination
 combination.find_difference(image1, image2)
 ```
-<img width="auto" src="https://github.com/HenriqueMAP/image-processing-package/blob/master/image-processing-test.png?raw=true">
-
 
 ## Licença
 [MIT](https://choosealicense.com/licenses/mit/)
